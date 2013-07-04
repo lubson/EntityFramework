@@ -1,0 +1,1 @@
+C:\Users\lubson\Documents\GitHub\EntityFramework\StartingWithEntityFramework\CodeFirstWithNewDatabase\bin\Debug\CodeFirstWithNewDatabase.exe.config
