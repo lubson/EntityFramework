@@ -1,1 +1,8 @@
 C:\Users\lubson\Documents\GitHub\EntityFramework\StartingWithEntityFramework\CodeFirstWithNewDatabase\bin\Debug\CodeFirstWithNewDatabase.exe.config
+C:\Users\lubson\Documents\GitHub\EntityFramework\StartingWithEntityFramework\CodeFirstWithNewDatabase\bin\Debug\CodeFirstWithNewDatabase.exe
+C:\Users\lubson\Documents\GitHub\EntityFramework\StartingWithEntityFramework\CodeFirstWithNewDatabase\bin\Debug\CodeFirstWithNewDatabase.pdb
+C:\Users\lubson\Documents\GitHub\EntityFramework\StartingWithEntityFramework\CodeFirstWithNewDatabase\bin\Debug\EntityFramework.dll
+C:\Users\lubson\Documents\GitHub\EntityFramework\StartingWithEntityFramework\CodeFirstWithNewDatabase\bin\Debug\EntityFramework.xml
+C:\Users\lubson\Documents\GitHub\EntityFramework\StartingWithEntityFramework\CodeFirstWithNewDatabase\obj\Debug\CodeFirstWithNewDatabase.csprojResolveAssemblyReference.cache
+C:\Users\lubson\Documents\GitHub\EntityFramework\StartingWithEntityFramework\CodeFirstWithNewDatabase\obj\Debug\CodeFirstWithNewDatabase.exe
+C:\Users\lubson\Documents\GitHub\EntityFramework\StartingWithEntityFramework\CodeFirstWithNewDatabase\obj\Debug\CodeFirstWithNewDatabase.pdb
