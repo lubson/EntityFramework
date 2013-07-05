@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Data.Entity;
+using System.ComponentModel.DataAnnotations;
 
 namespace CodeFirstWithNewDatabase
 {
@@ -40,6 +41,13 @@ namespace CodeFirstWithNewDatabase
 }
 
 //Business classes
+public class User
+{
+    [Key]
+    public string Username { get; set; }
+    public string DisplayName { get; set; }
+}
+
 public class Blog
 {
     public int BlogId { get; set; }
@@ -63,4 +71,12 @@ public class BloggingContext : DbContext
 {
     public DbSet<Blog> Blogs { get; set; }
     public DbSet<Post> Posts { get; set; }
+    public DbSet<User> Users { get; set; }
+
+    protected override void OnModelCreating(DbModelBuilder modelBuilder)
+    {
+        modelBuilder.Entity<User>()
+            .Property(u => u.DisplayName)
+            .HasColumnName("dispplay_name");
+    }
 }

@@ -9,3 +9,5 @@ C:\Users\lubson\Documents\GitHub\EntityFramework\StartingWithEntityFramework\Cod
 C:\Users\lubson\Documents\GitHub\EntityFramework\StartingWithEntityFramework\CodeFirstWithNewDatabase\obj\Debug\CodeFirstWithNewDatabase.Migrations.InitialCreate.resources
 C:\Users\lubson\Documents\GitHub\EntityFramework\StartingWithEntityFramework\CodeFirstWithNewDatabase\obj\Debug\CodeFirstWithNewDatabase.csproj.GenerateResource.Cache
 C:\Users\lubson\Documents\GitHub\EntityFramework\StartingWithEntityFramework\CodeFirstWithNewDatabase\obj\Debug\CodeFirstWithNewDatabase.Migrations.AddUrl.resources
+C:\Users\lubson\Documents\GitHub\EntityFramework\StartingWithEntityFramework\CodeFirstWithNewDatabase\obj\Debug\CodeFirstWithNewDatabase.Migrations.AddUser.resources
+C:\Users\lubson\Documents\GitHub\EntityFramework\StartingWithEntityFramework\CodeFirstWithNewDatabase\obj\Debug\CodeFirstWithNewDatabase.Migrations.ChangeDisplayName.resources
