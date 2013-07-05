@@ -6,3 +6,6 @@ C:\Users\lubson\Documents\GitHub\EntityFramework\StartingWithEntityFramework\Cod
 C:\Users\lubson\Documents\GitHub\EntityFramework\StartingWithEntityFramework\CodeFirstWithNewDatabase\obj\Debug\CodeFirstWithNewDatabase.csprojResolveAssemblyReference.cache
 C:\Users\lubson\Documents\GitHub\EntityFramework\StartingWithEntityFramework\CodeFirstWithNewDatabase\obj\Debug\CodeFirstWithNewDatabase.exe
 C:\Users\lubson\Documents\GitHub\EntityFramework\StartingWithEntityFramework\CodeFirstWithNewDatabase\obj\Debug\CodeFirstWithNewDatabase.pdb
+C:\Users\lubson\Documents\GitHub\EntityFramework\StartingWithEntityFramework\CodeFirstWithNewDatabase\obj\Debug\CodeFirstWithNewDatabase.Migrations.InitialCreate.resources
+C:\Users\lubson\Documents\GitHub\EntityFramework\StartingWithEntityFramework\CodeFirstWithNewDatabase\obj\Debug\CodeFirstWithNewDatabase.csproj.GenerateResource.Cache
+C:\Users\lubson\Documents\GitHub\EntityFramework\StartingWithEntityFramework\CodeFirstWithNewDatabase\obj\Debug\CodeFirstWithNewDatabase.Migrations.AddUrl.resources

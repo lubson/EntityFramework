@@ -46,12 +46,29 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Migrations\201307042155058_InitialCreate.cs" />
+    <Compile Include="Migrations\201307042155058_InitialCreate.Designer.cs">
+      <DependentUpon>201307042155058_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201307051008311_AddUrl.cs" />
+    <Compile Include="Migrations\201307051008311_AddUrl.Designer.cs">
+      <DependentUpon>201307051008311_AddUrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201307042155058_InitialCreate.resx">
+      <DependentUpon>201307042155058_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201307051008311_AddUrl.resx">
+      <DependentUpon>201307051008311_AddUrl.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
